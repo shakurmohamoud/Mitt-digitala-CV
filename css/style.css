@@ -1,0 +1,46 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+/* Huvudcontainer */
+#profile-page {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+}
+
+/* Centrera header-text */
+header {
+    text-align: center;
+}
+
+/* Profilbild centrerad */
+.profile-image {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+    border-radius: 50%;
+}
+
+/* Sektioner */
+.cv-section {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #555;
+}
+
+
+
+
+
